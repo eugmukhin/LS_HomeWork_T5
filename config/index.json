@@ -1,0 +1,4 @@
+{
+  "upload": "./public/upload",
+  "mongodb": "mongodb://root:1qaz2wsx@ds151612.mlab.com:51612/lshw5"
+}
