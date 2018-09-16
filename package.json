@@ -4,7 +4,9 @@
   "description": "Большая домашняя работа курса по Node.js - Корпоративная система _\"LoftSystem\"_.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "adduser": "node ./libs/addAdmin.js"
   },
   "keywords": [],
   "author": "",
