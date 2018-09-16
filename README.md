@@ -4,4 +4,4 @@
 
 ### Создать учетную запись администратора
 
-node ./libs/addAdmin
+npm adduser
