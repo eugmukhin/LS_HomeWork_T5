@@ -42,6 +42,7 @@ rl.on('close', () => {
 
             newUser
               .setPassword(password)
+              .setAccessToken()
               .save()
               .then(() => {
                 console.log(`User ${username} successfully created!`);

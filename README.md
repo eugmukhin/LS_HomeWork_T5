@@ -4,4 +4,4 @@
 
 ### Создать учетную запись администратора
 
-npm adduser
+npm run adduser
